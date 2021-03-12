@@ -1,3 +1,2 @@
-# TugasPokedex
-tugas mobile programming
-
+Tugas Pokedex Mobile Programming:
+*   RickyGiovanni
